@@ -144,6 +144,36 @@ You can switch models on the fly in the **AUDIO** tab of the settings menu.
 
 ---
 
+## Credits & Acknowledgements
+
+**VICE4PS3** is made possible thanks to the work and dedication of many talented developers and the open-source community:
+
+- **The VICE Team**:  
+  For developing and maintaining the Versatile Commodore Emulator (VICE), the premier cycle-exact Commodore 64 / 128 / PET / VIC-20 emulation framework.  
+  Official project: [vice-emu.sourceforge.io](https://vice-emu.sourceforge.io/)
+
+- **Akop Karapetyan (ammeir71)**:  
+  For the original architecture, FreeType UI font renderer, and menu framework originally created for the PSP and PS Vita VICE ports (`VICE-Vita`).
+
+- **Dag Lem**:  
+  For the incredible `reSID` cycle-exact MOS 6581 and MOS 8580 sound synthesis engine, faithfully reproducing the legendary analog SID sound.
+
+- **PSL1GHT & PS3 Homebrew Toolchain Contributors**:  
+  - **Hacker Channel & Youness Alaoui**: Creators of the original PSL1GHT open-source SDK.
+  - **Bucanero, Airon90, xerpi**: For modern PSL1GHT v2 toolchain maintenance, SDL2-PSL1GHT port, and essential PS3 homebrew libraries.
+  - The [ps3dev community](https://github.com/ps3dev) for keeping independent homebrew development alive on PlayStation 3.
+
+- **Commodore 64 Homebrew Scene**:  
+  - **Antonio Savona, Saul Cross, and Steven Day (Broken Bytes)** for modern masterpieces like *Fix-It Felix Jr.*, which served as reference audio and timing benchmarks during development.
+
+- **Francesco**:  
+  - Project maintainer, developer, and porter of **VICE4PS3** for the Sony PlayStation 3.
+
+- **Antigravity (Google DeepMind)**:  
+  - AI pair-programmer for PS3 platform architecture, low-latency audio subsystem integration (bit-perfect 1:1 ReSID synchronization), high-speed virtual keyboard rendering optimizations, and dynamic DualShock 3 joystick port mapping.
+
+---
+
 ## License
 
 - **VICE**: GNU General Public License v2 (GPLv2).
