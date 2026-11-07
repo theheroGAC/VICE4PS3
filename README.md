@@ -166,11 +166,8 @@ You can switch models on the fly in the **AUDIO** tab of the settings menu.
 - **Commodore 64 Homebrew Scene**:  
   - **Antonio Savona, Saul Cross, and Steven Day (Broken Bytes)** for modern masterpieces like *Fix-It Felix Jr.*, which served as reference audio and timing benchmarks during development.
 
-- **Francesco**:  
+- **theheroGAC**:  
   - Project maintainer, developer, and porter of **VICE4PS3** for the Sony PlayStation 3.
-
-- **Antigravity (Google DeepMind)**:  
-  - AI pair-programmer for PS3 platform architecture, low-latency audio subsystem integration (bit-perfect 1:1 ReSID synchronization), high-speed virtual keyboard rendering optimizations, and dynamic DualShock 3 joystick port mapping.
 
 ---
 
