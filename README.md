@@ -170,7 +170,6 @@ You can switch models on the fly in the **AUDIO** tab of the settings menu.
   - Project maintainer, developer, and porter of **VICE4PS3** for the Sony PlayStation 3.
 
 ---
-
 ## License
 
 - **VICE**: GNU General Public License v2 (GPLv2).
