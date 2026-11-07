@@ -1,0 +1,45 @@
+# Build directories
+build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Packaging outputs and temporary staging
+dist/
+pkgbuild/PS3_GAME/
+pkgbuild/*.elf
+pkgbuild/*.self
+pkgbuild/stsr*
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.d
+
+# Binaries
+*.elf
+*.self
+*.bin
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and tool metadata
+.freebuff/
+.cloud-attachments/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
